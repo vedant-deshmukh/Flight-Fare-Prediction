@@ -1,7 +1,7 @@
 <h1> Flight Fare Prediction System </h1> <br>
 This is a project taken under the internship provided by Ineuron.ai.
 
-Live Link : https://flight-fare-model.herokuapp.com/
+Live Link : https://flight-fare-model.herokuapp.com/ <br>
 Demo Video Link: https://youtu.be/XN34sQhjDTg
 
 ## Problem Statement:<br>
