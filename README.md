@@ -13,4 +13,5 @@ We have used Python Libraries for data analysis and model creation (backend) and
 
 ### 1. Landing Page <br>
 When the User land on our webpage, he/she sees a webpage welcoming them to Flight Fare Prediction System and ask them to move further by clicking on the ‘Lets Go!’ button.
-https://github.com/vedant-deshmukh/Flight-Fare-Prediction/blob/57dce5e9553e9ddbf9212bf3ee2c0d9d650f5d18/static/images/Welcome%20Page.png
+<br>
+<img src="https://github.com/vedant-deshmukh/Flight-Fare-Prediction/blob/c93bab92e7545ed15548bdff1f6994c4b5916947/static/images/Welcome%20Page.png">
